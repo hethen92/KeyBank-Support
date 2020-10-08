@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Welcome to the KeyBank support page!
-
+github:
+  is_project_page: false
